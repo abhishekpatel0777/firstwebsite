@@ -1,0 +1,46 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    height: 100vh;
+    background-color: rgb(255, 255, 169);
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.mynavbar{
+    color: rgb(255, 255, 255);
+    background-color: red;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+
+.info{
+    /* background-color: yellow; */
+    padding: 20px;
+    font-size: 50px;
+    margin-top: 90px;
+}
+/* .info:hover{
+    color: orange;
+} */
+
+button{
+    padding: 20px;
+    width: 450px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-radius: 15px;
+    font-size: 47px;
+    margin-top: 100px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: orange;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+
